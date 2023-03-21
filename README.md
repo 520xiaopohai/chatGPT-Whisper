@@ -15,3 +15,4 @@ Once you have your API key, you need to set it as an environment variable with t
 replace kOpenAIApi = "your api"
 
 ## very simple but powerful app
+![image](https://github.com/520xiaopohai/chatGPT-Whisper/blob/main/audioToText/SCR-20230321-e36.png)
